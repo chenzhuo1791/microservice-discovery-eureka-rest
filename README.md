@@ -1,2 +1,2 @@
-# microservice-discovery-eureka
-microservice-discovery-eureka  for server center
+# microservice-discovery-eureka-rest
+microservice-discovery-eureka  for restAPI usages
